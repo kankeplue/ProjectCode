@@ -1,0 +1,686 @@
+{
+    "accomodation": {
+        "x": 0,
+        "y": 0,
+        "width": 32,
+        "height": 32
+    },
+    "airport-gate": {
+        "x": 33,
+        "y": 0,
+        "width": 32,
+        "height": 32
+    },
+    "airport": {
+        "x": 0,
+        "y": 33,
+        "width": 32,
+        "height": 32
+    },
+    "amusement-park": {
+        "x": 33,
+        "y": 33,
+        "width": 32,
+        "height": 32
+    },
+    "art-gallery": {
+        "x": 66,
+        "y": 0,
+        "width": 32,
+        "height": 32
+    },
+    "atm": {
+        "x": 66,
+        "y": 33,
+        "width": 32,
+        "height": 32
+    },
+    "attraction": {
+        "x": 0,
+        "y": 66,
+        "width": 32,
+        "height": 32
+    },
+    "bank": {
+        "x": 33,
+        "y": 66,
+        "width": 32,
+        "height": 32
+    },
+    "beach": {
+        "x": 66,
+        "y": 66,
+        "width": 32,
+        "height": 32
+    },
+    "bookstore": {
+        "x": 99,
+        "y": 0,
+        "width": 32,
+        "height": 32
+    },
+    "bowling": {
+        "x": 99,
+        "y": 33,
+        "width": 32,
+        "height": 32
+    },
+    "bus": {
+        "x": 99,
+        "y": 66,
+        "width": 32,
+        "height": 32
+    },
+    "business-post-jpn": {
+        "x": 0,
+        "y": 99,
+        "width": 32,
+        "height": 32
+    },
+    "business": {
+        "x": 33,
+        "y": 99,
+        "width": 32,
+        "height": 32
+    },
+    "cable-way": {
+        "x": 66,
+        "y": 99,
+        "width": 32,
+        "height": 32
+    },
+    "camping": {
+        "x": 99,
+        "y": 99,
+        "width": 32,
+        "height": 32
+    },
+    "car-charging": {
+        "x": 132,
+        "y": 0,
+        "width": 32,
+        "height": 32
+    },
+    "car-dealership": {
+        "x": 132,
+        "y": 33,
+        "width": 32,
+        "height": 32
+    },
+    "car-rental": {
+        "x": 132,
+        "y": 66,
+        "width": 32,
+        "height": 32
+    },
+    "car-repair": {
+        "x": 132,
+        "y": 99,
+        "width": 32,
+        "height": 32
+    },
+    "car-wash": {
+        "x": 0,
+        "y": 132,
+        "width": 32,
+        "height": 32
+    },
+    "casino": {
+        "x": 33,
+        "y": 132,
+        "width": 32,
+        "height": 32
+    },
+    "cemetry": {
+        "x": 66,
+        "y": 132,
+        "width": 32,
+        "height": 32
+    },
+    "cinema": {
+        "x": 99,
+        "y": 132,
+        "width": 32,
+        "height": 32
+    },
+    "cocktail": {
+        "x": 132,
+        "y": 132,
+        "width": 32,
+        "height": 32
+    },
+    "coffee": {
+        "x": 165,
+        "y": 0,
+        "width": 32,
+        "height": 32
+    },
+    "education": {
+        "x": 165,
+        "y": 33,
+        "width": 32,
+        "height": 32
+    },
+    "elevator": {
+        "x": 165,
+        "y": 66,
+        "width": 32,
+        "height": 32
+    },
+    "emergency-firedepartment-jpn": {
+        "x": 165,
+        "y": 99,
+        "width": 32,
+        "height": 32
+    },
+    "emergency-hospital-jpn": {
+        "x": 165,
+        "y": 132,
+        "width": 32,
+        "height": 32
+    },
+    "emergency-police-jpn": {
+        "x": 0,
+        "y": 165,
+        "width": 32,
+        "height": 32
+    },
+    "emergency-policebox-jpn": {
+        "x": 33,
+        "y": 165,
+        "width": 32,
+        "height": 32
+    },
+    "enter-venue": {
+        "x": 66,
+        "y": 165,
+        "width": 32,
+        "height": 32
+    },
+    "entrance": {
+        "x": 99,
+        "y": 165,
+        "width": 32,
+        "height": 32
+    },
+    "escalator": {
+        "x": 132,
+        "y": 165,
+        "width": 32,
+        "height": 32
+    },
+    "exhibition-center": {
+        "x": 165,
+        "y": 165,
+        "width": 32,
+        "height": 32
+    },
+    "facilities-cityhall-jpn": {
+        "x": 198,
+        "y": 0,
+        "width": 32,
+        "height": 32
+    },
+    "facilities-education-higher-jpn": {
+        "x": 198,
+        "y": 33,
+        "width": 32,
+        "height": 32
+    },
+    "facilities-education-school-jpn": {
+        "x": 198,
+        "y": 66,
+        "width": 32,
+        "height": 32
+    },
+    "facilities-office-prefectural-jpn": {
+        "x": 198,
+        "y": 99,
+        "width": 32,
+        "height": 32
+    },
+    "facilities-office-townvillage-jpn": {
+        "x": 198,
+        "y": 132,
+        "width": 32,
+        "height": 32
+    },
+    "facilities-office-ward-jpn": {
+        "x": 198,
+        "y": 165,
+        "width": 32,
+        "height": 32
+    },
+    "facility": {
+        "x": 0,
+        "y": 198,
+        "width": 32,
+        "height": 32
+    },
+    "fast-food": {
+        "x": 33,
+        "y": 198,
+        "width": 32,
+        "height": 32
+    },
+    "ferry": {
+        "x": 66,
+        "y": 198,
+        "width": 32,
+        "height": 32
+    },
+    "first-aid": {
+        "x": 99,
+        "y": 198,
+        "width": 32,
+        "height": 32
+    },
+    "fitness": {
+        "x": 132,
+        "y": 198,
+        "width": 32,
+        "height": 32
+    },
+    "frontier-crossing": {
+        "x": 165,
+        "y": 198,
+        "width": 32,
+        "height": 32
+    },
+    "game-arcade": {
+        "x": 198,
+        "y": 198,
+        "width": 32,
+        "height": 32
+    },
+    "generic-empty": {
+        "x": 231,
+        "y": 0,
+        "width": 32,
+        "height": 32
+    },
+    "generic-point": {
+        "x": 231,
+        "y": 33,
+        "width": 32,
+        "height": 32
+    },
+    "golf-course": {
+        "x": 231,
+        "y": 66,
+        "width": 32,
+        "height": 32
+    },
+    "harbor": {
+        "x": 231,
+        "y": 99,
+        "width": 32,
+        "height": 32
+    },
+    "hospital": {
+        "x": 231,
+        "y": 132,
+        "width": 32,
+        "height": 32
+    },
+    "hotel": {
+        "x": 231,
+        "y": 165,
+        "width": 32,
+        "height": 32
+    },
+    "inclined": {
+        "x": 231,
+        "y": 198,
+        "width": 32,
+        "height": 32
+    },
+    "karaoke": {
+        "x": 0,
+        "y": 231,
+        "width": 32,
+        "height": 32
+    },
+    "laundry": {
+        "x": 33,
+        "y": 231,
+        "width": 32,
+        "height": 32
+    },
+    "library": {
+        "x": 66,
+        "y": 231,
+        "width": 32,
+        "height": 32
+    },
+    "metro": {
+        "x": 99,
+        "y": 231,
+        "width": 32,
+        "height": 32
+    },
+    "monorail": {
+        "x": 132,
+        "y": 231,
+        "width": 32,
+        "height": 32
+    },
+    "mountain-pass": {
+        "x": 165,
+        "y": 231,
+        "width": 32,
+        "height": 32
+    },
+    "mountain": {
+        "x": 198,
+        "y": 231,
+        "width": 32,
+        "height": 32
+    },
+    "museum": {
+        "x": 231,
+        "y": 231,
+        "width": 32,
+        "height": 32
+    },
+    "nature-overlook": {
+        "x": 264,
+        "y": 0,
+        "width": 32,
+        "height": 32
+    },
+    "nature": {
+        "x": 264,
+        "y": 33,
+        "width": 32,
+        "height": 32
+    },
+    "night-club": {
+        "x": 264,
+        "y": 66,
+        "width": 32,
+        "height": 32
+    },
+    "park-and-ride": {
+        "x": 264,
+        "y": 99,
+        "width": 32,
+        "height": 32
+    },
+    "parking-garage": {
+        "x": 264,
+        "y": 132,
+        "width": 32,
+        "height": 32
+    },
+    "parking": {
+        "x": 264,
+        "y": 165,
+        "width": 32,
+        "height": 32
+    },
+    "petrol-station": {
+        "x": 264,
+        "y": 198,
+        "width": 32,
+        "height": 32
+    },
+    "pharmacy": {
+        "x": 264,
+        "y": 231,
+        "width": 32,
+        "height": 32
+    },
+    "picnic-area": {
+        "x": 0,
+        "y": 264,
+        "width": 32,
+        "height": 32
+    },
+    "platform": {
+        "x": 33,
+        "y": 264,
+        "width": 32,
+        "height": 32
+    },
+    "playground": {
+        "x": 66,
+        "y": 264,
+        "width": 32,
+        "height": 32
+    },
+    "police": {
+        "x": 99,
+        "y": 264,
+        "width": 32,
+        "height": 32
+    },
+    "pool": {
+        "x": 132,
+        "y": 264,
+        "width": 32,
+        "height": 32
+    },
+    "post": {
+        "x": 165,
+        "y": 264,
+        "width": 32,
+        "height": 32
+    },
+    "pub": {
+        "x": 198,
+        "y": 264,
+        "width": 32,
+        "height": 32
+    },
+    "public-toilet": {
+        "x": 231,
+        "y": 264,
+        "width": 32,
+        "height": 32
+    },
+    "rail-light": {
+        "x": 264,
+        "y": 264,
+        "width": 32,
+        "height": 32
+    },
+    "rail-regional": {
+        "x": 297,
+        "y": 0,
+        "width": 32,
+        "height": 32
+    },
+    "ramp": {
+        "x": 297,
+        "y": 33,
+        "width": 32,
+        "height": 32
+    },
+    "religious-place": {
+        "x": 297,
+        "y": 66,
+        "width": 32,
+        "height": 32
+    },
+    "religious-shinto-jpn": {
+        "x": 297,
+        "y": 99,
+        "width": 32,
+        "height": 32
+    },
+    "religious-temple-buddhist-jpn": {
+        "x": 297,
+        "y": 132,
+        "width": 32,
+        "height": 32
+    },
+    "restaurant": {
+        "x": 297,
+        "y": 165,
+        "width": 32,
+        "height": 32
+    },
+    "road-facilities-ic-jpn": {
+        "x": 297,
+        "y": 198,
+        "width": 32,
+        "height": 32
+    },
+    "road-facilities-jct-jpn": {
+        "x": 297,
+        "y": 231,
+        "width": 32,
+        "height": 32
+    },
+    "road-facilities-pa-jpn": {
+        "x": 297,
+        "y": 264,
+        "width": 32,
+        "height": 32
+    },
+    "road-facilities-ramp-entry-jpn": {
+        "x": 0,
+        "y": 297,
+        "width": 32,
+        "height": 32
+    },
+    "road-facilities-ramp-exit-jpn": {
+        "x": 33,
+        "y": 297,
+        "width": 32,
+        "height": 32
+    },
+    "road-facilities-sa-jpn": {
+        "x": 66,
+        "y": 297,
+        "width": 32,
+        "height": 32
+    },
+    "road-facilities-smart-ic-jpn": {
+        "x": 99,
+        "y": 297,
+        "width": 32,
+        "height": 32
+    },
+    "road-facilities-smart-ic-new-jpn": {
+        "x": 132,
+        "y": 297,
+        "width": 32,
+        "height": 32
+    },
+    "shopping": {
+        "x": 165,
+        "y": 297,
+        "width": 32,
+        "height": 32
+    },
+    "ski-run": {
+        "x": 198,
+        "y": 297,
+        "width": 32,
+        "height": 32
+    },
+    "skywalk": {
+        "x": 231,
+        "y": 297,
+        "width": 32,
+        "height": 32
+    },
+    "stadium": {
+        "x": 264,
+        "y": 297,
+        "width": 32,
+        "height": 32
+    },
+    "stairs": {
+        "x": 297,
+        "y": 297,
+        "width": 32,
+        "height": 32
+    },
+    "swimming": {
+        "x": 330,
+        "y": 0,
+        "width": 32,
+        "height": 32
+    },
+    "taxi": {
+        "x": 330,
+        "y": 33,
+        "width": 32,
+        "height": 32
+    },
+    "theater": {
+        "x": 330,
+        "y": 66,
+        "width": 32,
+        "height": 32
+    },
+    "toll-booth-jpn": {
+        "x": 330,
+        "y": 99,
+        "width": 32,
+        "height": 32
+    },
+    "toll-booth": {
+        "x": 330,
+        "y": 132,
+        "width": 32,
+        "height": 32
+    },
+    "tourist-information": {
+        "x": 330,
+        "y": 165,
+        "width": 32,
+        "height": 32
+    },
+    "traffic-light": {
+        "x": 330,
+        "y": 198,
+        "width": 32,
+        "height": 32
+    },
+    "train": {
+        "x": 330,
+        "y": 231,
+        "width": 32,
+        "height": 32
+    },
+    "transport-shinkansen-jpn": {
+        "x": 330,
+        "y": 264,
+        "width": 32,
+        "height": 32
+    },
+    "travel-agent-ticketing": {
+        "x": 330,
+        "y": 297,
+        "width": 32,
+        "height": 32
+    },
+    "underpath": {
+        "x": 0,
+        "y": 330,
+        "width": 32,
+        "height": 32
+    },
+    "volcano": {
+        "x": 33,
+        "y": 330,
+        "width": 32,
+        "height": 32
+    },
+    "waterfall": {
+        "x": 66,
+        "y": 330,
+        "width": 32,
+        "height": 32
+    },
+    "zoo": {
+        "x": 99,
+        "y": 330,
+        "width": 32,
+        "height": 32
+    }
+}

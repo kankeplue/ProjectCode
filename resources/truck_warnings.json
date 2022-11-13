@@ -1,0 +1,74 @@
+{
+    "general_truck_restriction": {
+        "x": 0,
+        "y": 0,
+        "width": 44,
+        "height": 44
+    },
+    "hazmat_general": {
+        "x": 45,
+        "y": 0,
+        "width": 44,
+        "height": 44
+    },
+    "hazmat_harmful_for_water": {
+        "x": 0,
+        "y": 45,
+        "width": 44,
+        "height": 44
+    },
+    "hazmat_permit_required": {
+        "x": 45,
+        "y": 45,
+        "width": 44,
+        "height": 44
+    },
+    "hazmat_water": {
+        "x": 90,
+        "y": 0,
+        "width": 44,
+        "height": 44
+    },
+    "height_restriction": {
+        "x": 90,
+        "y": 45,
+        "width": 44,
+        "height": 44
+    },
+    "length_restriction": {
+        "x": 0,
+        "y": 90,
+        "width": 44,
+        "height": 44
+    },
+    "speed_limit": {
+        "x": 45,
+        "y": 90,
+        "width": 44,
+        "height": 44
+    },
+    "trailer_restriction": {
+        "x": 90,
+        "y": 90,
+        "width": 44,
+        "height": 44
+    },
+    "weight_per_axle_restriction": {
+        "x": 135,
+        "y": 0,
+        "width": 44,
+        "height": 44
+    },
+    "weight_restriction": {
+        "x": 135,
+        "y": 45,
+        "width": 44,
+        "height": 44
+    },
+    "width_restriction": {
+        "x": 135,
+        "y": 90,
+        "width": 44,
+        "height": 44
+    }
+}

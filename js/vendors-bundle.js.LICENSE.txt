@@ -1,0 +1,45 @@
+/*!
+
+JSZip v3.7.0 - A JavaScript class for generating and reading zip files
+<http://stuartk.com/jszip>
+
+(c) 2009-2016 Stuart Knightley <stuart [at] stuartk.com>
+Dual licenced under the MIT license or GPLv3. See https://raw.github.com/Stuk/jszip/master/LICENSE.markdown.
+
+JSZip uses the library pako released under the MIT license :
+https://github.com/nodeca/pako/blob/master/LICENSE
+*/
+
+/*!
+ * 
+ * Copyright (C) 2019-2022 HERE Global B.V. and its affiliate(s). All rights reserved.
+ *
+ * To see full license please visit URL below
+ * https://platform.here.com/data-inspector/LICENSE
+ *
+ * The bundle contains open source software. Please visit URL below for overview of the licenses
+ * https://platform.here.com/data-inspector/HERE_NOTICE
+ */
+
+/*!
+ * The buffer module from node.js, for the browser.
+ *
+ * @author   Feross Aboukhadijeh <https://feross.org>
+ * @license  MIT
+ */
+
+/*! @license DOMPurify 2.3.1 | (c) Cure53 and other contributors | Released under the Apache license 2.0 and Mozilla Public License 2.0 | github.com/cure53/DOMPurify/blob/2.3.1/LICENSE */
+
+/*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> */
+
+/*!---------------------------------------------------------------------------------------------
+ *  Copyright (C) David Owens II, owensd.io. All rights reserved.
+ *--------------------------------------------------------------------------------------------*/
+
+/** @license URI.js v4.2.1 (c) 2011 Gary Court. License: http://github.com/garycourt/uri-js */
+
+//! moment.js
+
+//! moment.js locale configuration
+
+//!!!!!!!ALTITUDE IS NOT TAKEN INTO ACCOUNT!!!!!!!!!

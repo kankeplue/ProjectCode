@@ -1,0 +1,32 @@
+{
+    "tmc_blocking_accident": {
+        "x": 0,
+        "y": 0,
+        "width": 32,
+        "height": 32
+    },
+    "tmc_blocking_closure": {
+        "x": 33,
+        "y": 0,
+        "width": 32,
+        "height": 32
+    },
+    "tmc_blocking_congestion": {
+        "x": 0,
+        "y": 33,
+        "width": 32,
+        "height": 32
+    },
+    "tmc_blocking_other": {
+        "x": 33,
+        "y": 33,
+        "width": 32,
+        "height": 32
+    },
+    "tmc_blocking_roadworks": {
+        "x": 66,
+        "y": 0,
+        "width": 32,
+        "height": 32
+    }
+}

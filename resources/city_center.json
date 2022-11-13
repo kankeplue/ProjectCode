@@ -1,0 +1,50 @@
+{
+    "capital_day": {
+        "x": 0,
+        "y": 0,
+        "width": 12,
+        "height": 12
+    },
+    "capital_night": {
+        "x": 13,
+        "y": 0,
+        "width": 12,
+        "height": 12
+    },
+    "circle_day": {
+        "x": 0,
+        "y": 13,
+        "width": 12,
+        "height": 12
+    },
+    "circle_hybrid": {
+        "x": 13,
+        "y": 13,
+        "width": 12,
+        "height": 12
+    },
+    "circle_night": {
+        "x": 26,
+        "y": 0,
+        "width": 12,
+        "height": 12
+    },
+    "square_day": {
+        "x": 26,
+        "y": 13,
+        "width": 12,
+        "height": 12
+    },
+    "square_hybrid": {
+        "x": 0,
+        "y": 26,
+        "width": 12,
+        "height": 12
+    },
+    "square_night": {
+        "x": 13,
+        "y": 26,
+        "width": 12,
+        "height": 12
+    }
+}

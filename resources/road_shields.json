@@ -1,0 +1,656 @@
+{
+    "australia_2": {
+        "x": 0,
+        "y": 0,
+        "width": 26,
+        "height": 26
+    },
+    "australia_3": {
+        "x": 27,
+        "y": 0,
+        "width": 26,
+        "height": 26
+    },
+    "australia_5": {
+        "x": 0,
+        "y": 27,
+        "width": 26,
+        "height": 26
+    },
+    "australia_a": {
+        "x": 27,
+        "y": 27,
+        "width": 26,
+        "height": 26
+    },
+    "australia_b": {
+        "x": 54,
+        "y": 0,
+        "width": 26,
+        "height": 26
+    },
+    "bahrain_1": {
+        "x": 54,
+        "y": 27,
+        "width": 26,
+        "height": 26
+    },
+    "black_oval": {
+        "x": 0,
+        "y": 54,
+        "width": 26,
+        "height": 26
+    },
+    "blue_hexagon": {
+        "x": 27,
+        "y": 54,
+        "width": 26,
+        "height": 26
+    },
+    "blue_pentagon": {
+        "x": 54,
+        "y": 54,
+        "width": 26,
+        "height": 26
+    },
+    "blue_rectangle_yellow": {
+        "x": 81,
+        "y": 0,
+        "width": 26,
+        "height": 26
+    },
+    "blue_rectangle": {
+        "x": 81,
+        "y": 27,
+        "width": 26,
+        "height": 26
+    },
+    "blue_shield": {
+        "x": 81,
+        "y": 54,
+        "width": 26,
+        "height": 26
+    },
+    "blue_square_white": {
+        "x": 0,
+        "y": 81,
+        "width": 26,
+        "height": 26
+    },
+    "blue_square": {
+        "x": 27,
+        "y": 81,
+        "width": 26,
+        "height": 26
+    },
+    "brazil_a": {
+        "x": 54,
+        "y": 81,
+        "width": 26,
+        "height": 26
+    },
+    "brazil_b": {
+        "x": 81,
+        "y": 81,
+        "width": 26,
+        "height": 26
+    },
+    "CAN_british_columbia_1": {
+        "x": 108,
+        "y": 0,
+        "width": 26,
+        "height": 26
+    },
+    "CAN_manitoba_1": {
+        "x": 108,
+        "y": 27,
+        "width": 26,
+        "height": 26
+    },
+    "CAN_manitoba_3": {
+        "x": 108,
+        "y": 54,
+        "width": 26,
+        "height": 26
+    },
+    "CAN_northw_territories_1": {
+        "x": 108,
+        "y": 81,
+        "width": 26,
+        "height": 26
+    },
+    "CAN_novia_scotia_1": {
+        "x": 0,
+        "y": 108,
+        "width": 26,
+        "height": 26
+    },
+    "CAN_ontario_1": {
+        "x": 27,
+        "y": 108,
+        "width": 26,
+        "height": 26
+    },
+    "CAN_ontario_2": {
+        "x": 54,
+        "y": 108,
+        "width": 26,
+        "height": 26
+    },
+    "CAN_ontario_3": {
+        "x": 81,
+        "y": 108,
+        "width": 26,
+        "height": 26
+    },
+    "CAN_prince_edward_isl_1_2": {
+        "x": 108,
+        "y": 108,
+        "width": 26,
+        "height": 26
+    },
+    "CAN_quebec_1": {
+        "x": 135,
+        "y": 0,
+        "width": 26,
+        "height": 26
+    },
+    "CAN_quebec_2": {
+        "x": 135,
+        "y": 27,
+        "width": 26,
+        "height": 26
+    },
+    "CAN_saskatchewan_1": {
+        "x": 135,
+        "y": 54,
+        "width": 26,
+        "height": 26
+    },
+    "CAN_saskatchewan_2": {
+        "x": 135,
+        "y": 81,
+        "width": 26,
+        "height": 26
+    },
+    "CAN_saskatchewan_3": {
+        "x": 135,
+        "y": 108,
+        "width": 26,
+        "height": 26
+    },
+    "canada_a": {
+        "x": 0,
+        "y": 135,
+        "width": 26,
+        "height": 26
+    },
+    "china_1": {
+        "x": 27,
+        "y": 135,
+        "width": 26,
+        "height": 26
+    },
+    "china_2": {
+        "x": 54,
+        "y": 135,
+        "width": 26,
+        "height": 26
+    },
+    "exitnumber": {
+        "x": 81,
+        "y": 135,
+        "width": 26,
+        "height": 26
+    },
+    "generic": {
+        "x": 108,
+        "y": 135,
+        "width": 26,
+        "height": 26
+    },
+    "greece_a": {
+        "x": 135,
+        "y": 135,
+        "width": 26,
+        "height": 26
+    },
+    "green_hexagon_yellow": {
+        "x": 162,
+        "y": 0,
+        "width": 26,
+        "height": 26
+    },
+    "green_hexagon": {
+        "x": 162,
+        "y": 27,
+        "width": 26,
+        "height": 26
+    },
+    "green_octagon": {
+        "x": 162,
+        "y": 54,
+        "width": 26,
+        "height": 26
+    },
+    "green_pentagon": {
+        "x": 162,
+        "y": 81,
+        "width": 26,
+        "height": 26
+    },
+    "green_rectangle": {
+        "x": 162,
+        "y": 108,
+        "width": 26,
+        "height": 26
+    },
+    "green_square_white": {
+        "x": 162,
+        "y": 135,
+        "width": 26,
+        "height": 26
+    },
+    "green_square": {
+        "x": 0,
+        "y": 162,
+        "width": 26,
+        "height": 26
+    },
+    "hongkong_a": {
+        "x": 27,
+        "y": 162,
+        "width": 26,
+        "height": 26
+    },
+    "india_a": {
+        "x": 54,
+        "y": 162,
+        "width": 26,
+        "height": 26
+    },
+    "india_b": {
+        "x": 81,
+        "y": 162,
+        "width": 26,
+        "height": 26
+    },
+    "israel_a": {
+        "x": 108,
+        "y": 162,
+        "width": 26,
+        "height": 26
+    },
+    "israel_b": {
+        "x": 135,
+        "y": 162,
+        "width": 26,
+        "height": 26
+    },
+    "israel_c": {
+        "x": 162,
+        "y": 162,
+        "width": 26,
+        "height": 26
+    },
+    "israel_d": {
+        "x": 189,
+        "y": 0,
+        "width": 26,
+        "height": 26
+    },
+    "korea_1": {
+        "x": 189,
+        "y": 27,
+        "width": 26,
+        "height": 26
+    },
+    "korea_2": {
+        "x": 189,
+        "y": 54,
+        "width": 26,
+        "height": 26
+    },
+    "korea_3": {
+        "x": 189,
+        "y": 81,
+        "width": 26,
+        "height": 26
+    },
+    "korea_4": {
+        "x": 189,
+        "y": 108,
+        "width": 26,
+        "height": 26
+    },
+    "korea_5": {
+        "x": 189,
+        "y": 135,
+        "width": 26,
+        "height": 26
+    },
+    "kuwait_a": {
+        "x": 189,
+        "y": 162,
+        "width": 26,
+        "height": 26
+    },
+    "kuwait_b": {
+        "x": 0,
+        "y": 189,
+        "width": 26,
+        "height": 26
+    },
+    "kuwait_c": {
+        "x": 27,
+        "y": 189,
+        "width": 26,
+        "height": 26
+    },
+    "luxembourg_c": {
+        "x": 54,
+        "y": 189,
+        "width": 26,
+        "height": 26
+    },
+    "mexico_a": {
+        "x": 81,
+        "y": 189,
+        "width": 26,
+        "height": 26
+    },
+    "mexico_b": {
+        "x": 108,
+        "y": 189,
+        "width": 26,
+        "height": 26
+    },
+    "namibia_a": {
+        "x": 135,
+        "y": 189,
+        "width": 26,
+        "height": 26
+    },
+    "netherlands_c": {
+        "x": 162,
+        "y": 189,
+        "width": 26,
+        "height": 26
+    },
+    "newzealand_a": {
+        "x": 189,
+        "y": 189,
+        "width": 26,
+        "height": 26
+    },
+    "newzealand_b": {
+        "x": 216,
+        "y": 0,
+        "width": 26,
+        "height": 26
+    },
+    "orange_hexagon": {
+        "x": 216,
+        "y": 27,
+        "width": 26,
+        "height": 26
+    },
+    "orange_rectangle": {
+        "x": 216,
+        "y": 54,
+        "width": 26,
+        "height": 26
+    },
+    "peru_1": {
+        "x": 216,
+        "y": 81,
+        "width": 26,
+        "height": 26
+    },
+    "puerto_rico_1": {
+        "x": 216,
+        "y": 108,
+        "width": 26,
+        "height": 26
+    },
+    "puerto_rico_2": {
+        "x": 216,
+        "y": 135,
+        "width": 26,
+        "height": 26
+    },
+    "puerto_rico_3": {
+        "x": 216,
+        "y": 162,
+        "width": 26,
+        "height": 26
+    },
+    "qatar_a": {
+        "x": 216,
+        "y": 189,
+        "width": 26,
+        "height": 26
+    },
+    "qatar_b": {
+        "x": 0,
+        "y": 216,
+        "width": 26,
+        "height": 26
+    },
+    "red_hexagon": {
+        "x": 27,
+        "y": 216,
+        "width": 26,
+        "height": 26
+    },
+    "red_rectangle": {
+        "x": 54,
+        "y": 216,
+        "width": 26,
+        "height": 26
+    },
+    "romania_b": {
+        "x": 81,
+        "y": 216,
+        "width": 26,
+        "height": 26
+    },
+    "romania_c": {
+        "x": 108,
+        "y": 216,
+        "width": 26,
+        "height": 26
+    },
+    "saudiarabia_1": {
+        "x": 135,
+        "y": 216,
+        "width": 26,
+        "height": 26
+    },
+    "saudiarabia_2": {
+        "x": 162,
+        "y": 216,
+        "width": 26,
+        "height": 26
+    },
+    "saudiarabia_3": {
+        "x": 189,
+        "y": 216,
+        "width": 26,
+        "height": 26
+    },
+    "southafrica_a": {
+        "x": 216,
+        "y": 216,
+        "width": 26,
+        "height": 26
+    },
+    "southafrica_b": {
+        "x": 243,
+        "y": 0,
+        "width": 26,
+        "height": 26
+    },
+    "southafrica_d": {
+        "x": 243,
+        "y": 27,
+        "width": 26,
+        "height": 26
+    },
+    "taiwan_a": {
+        "x": 243,
+        "y": 54,
+        "width": 26,
+        "height": 26
+    },
+    "taiwan_b": {
+        "x": 243,
+        "y": 81,
+        "width": 26,
+        "height": 26
+    },
+    "taiwan_c": {
+        "x": 243,
+        "y": 108,
+        "width": 26,
+        "height": 26
+    },
+    "thailand_1": {
+        "x": 243,
+        "y": 135,
+        "width": 26,
+        "height": 26
+    },
+    "thailand_2": {
+        "x": 243,
+        "y": 162,
+        "width": 26,
+        "height": 26
+    },
+    "thailand_3": {
+        "x": 243,
+        "y": 189,
+        "width": 26,
+        "height": 26
+    },
+    "u_a_emirates_1": {
+        "x": 243,
+        "y": 216,
+        "width": 26,
+        "height": 26
+    },
+    "u_a_emirates_2a": {
+        "x": 0,
+        "y": 243,
+        "width": 26,
+        "height": 26
+    },
+    "u_a_emirates_2b": {
+        "x": 27,
+        "y": 243,
+        "width": 26,
+        "height": 26
+    },
+    "u_a_emirates_2c": {
+        "x": 54,
+        "y": 243,
+        "width": 26,
+        "height": 26
+    },
+    "us_virgin_islands": {
+        "x": 81,
+        "y": 243,
+        "width": 26,
+        "height": 26
+    },
+    "usa_a_modifier": {
+        "x": 108,
+        "y": 243,
+        "width": 26,
+        "height": 26
+    },
+    "usa_a": {
+        "x": 135,
+        "y": 243,
+        "width": 26,
+        "height": 26
+    },
+    "venezuela_1": {
+        "x": 162,
+        "y": 243,
+        "width": 26,
+        "height": 26
+    },
+    "venezuela_2": {
+        "x": 189,
+        "y": 243,
+        "width": 26,
+        "height": 26
+    },
+    "white_oval": {
+        "x": 216,
+        "y": 243,
+        "width": 26,
+        "height": 26
+    },
+    "white_pentagon_round": {
+        "x": 243,
+        "y": 243,
+        "width": 26,
+        "height": 26
+    },
+    "white_pentagon": {
+        "x": 270,
+        "y": 0,
+        "width": 26,
+        "height": 26
+    },
+    "white_rectangle_green": {
+        "x": 270,
+        "y": 27,
+        "width": 26,
+        "height": 26
+    },
+    "white_rectangle": {
+        "x": 270,
+        "y": 54,
+        "width": 26,
+        "height": 26
+    },
+    "white_shield_m": {
+        "x": 270,
+        "y": 81,
+        "width": 26,
+        "height": 26
+    },
+    "white_shield": {
+        "x": 270,
+        "y": 108,
+        "width": 26,
+        "height": 26
+    },
+    "white_square_red": {
+        "x": 270,
+        "y": 135,
+        "width": 26,
+        "height": 26
+    },
+    "white_square": {
+        "x": 270,
+        "y": 162,
+        "width": 26,
+        "height": 26
+    },
+    "yellow_hexagon": {
+        "x": 270,
+        "y": 189,
+        "width": 26,
+        "height": 26
+    },
+    "yellow_rectangle": {
+        "x": 270,
+        "y": 216,
+        "width": 26,
+        "height": 26
+    }
+}
